@@ -1,0 +1,21 @@
+commit df455a79680d70a43d65351f338e25d0ef26c169 (origin/master, origin/HEAD)
+Author: Andrew Khodzhakhanov <j2me@j2me.ws>
+Date:   Wed Jun 29 02:29:15 2016 +0300
+
+    fix readme
+
+commit 1db7b7a68098af0fd01a77aca5f808a817d5c2e3 (origin/buttons)
+Author: Andrew Khodzhakhanov <j2me@j2me.ws>
+Date:   Wed Jun 29 02:24:32 2016 +0300
+
+    dots
+
+commit 079fa1b2baa18b6a7a03ff3a7d00e9fca4d43a0c
+Author: Andrew Khodzhakhanov <j2me@j2me.ws>
+Date:   Wed Jun 29 01:02:37 2016 +0300
+
+    README added
+
+commit 152f859ca641e70864aa907bc1f5b1ba3b27acd9 (origin/boots)
+Author: Andrew Khodzhakhanov <j2me@j2me.ws>
+Date:   Wed Jun 29 00:52:53 2016 +0300
